@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5dff73b3-2537-4caf-8f43-3387af76368a": {
+      "ProjectGuid": "5dff73b3-2537-4caf-8f43-3387af76368a",
+      "DisplayName": "ES_API",
+      "ColorIndex": 0
+    },
+    "1144b708-d7ff-4569-aba5-aa2e20faa11e": {
+      "ProjectGuid": "1144b708-d7ff-4569-aba5-aa2e20faa11e",
+      "DisplayName": "Electronics_store_UI",
+      "ColorIndex": 1
+    },
+    "79271932-52dd-48ec-8113-f61246b0d71e": {
+      "ProjectGuid": "79271932-52dd-48ec-8113-f61246b0d71e",
+      "DisplayName": "Electronics_Store_Models",
+      "ColorIndex": 2
+    },
+    "125aa9c4-8699-4f11-94c5-6c832586f063": {
+      "ProjectGuid": "125aa9c4-8699-4f11-94c5-6c832586f063",
+      "DisplayName": "Electronics_Store_DL",
+      "ColorIndex": 3
+    },
+    "f9cd26b6-fb0a-4922-9197-4e25ee816417": {
+      "ProjectGuid": "f9cd26b6-fb0a-4922-9197-4e25ee816417",
+      "DisplayName": "Electronics_Store_BL",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

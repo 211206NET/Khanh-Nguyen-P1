@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_BL\\Electronics_Store_BL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_BL\\Electronics_Store_BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_BL\\Electronics_Store_BL.csproj",
+        "projectName": "Electronics_Store_BL",
+        "projectPath": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_BL\\Electronics_Store_BL.csproj",
+        "packagesPath": "C:\\Users\\kwin8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kwin8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_DL\\Electronics_Store_DL.csproj": {
+                "projectPath": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_DL\\Electronics_Store_DL.csproj"
+              },
+              "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_Models\\Electronics_Store_Models.csproj": {
+                "projectPath": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_Models\\Electronics_Store_Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_DL\\Electronics_Store_DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_DL\\Electronics_Store_DL.csproj",
+        "projectName": "Electronics_Store_DL",
+        "projectPath": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_DL\\Electronics_Store_DL.csproj",
+        "packagesPath": "C:\\Users\\kwin8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kwin8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_Models\\Electronics_Store_Models.csproj": {
+                "projectPath": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_Models\\Electronics_Store_Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Data.Sqlclient": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_Models\\Electronics_Store_Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_Models\\Electronics_Store_Models.csproj",
+        "projectName": "Electronics_Store_Models",
+        "projectPath": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_Models\\Electronics_Store_Models.csproj",
+        "packagesPath": "C:\\Users\\kwin8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kwin8\\Documents\\Revature Worksspace\\Khanh-Nguyen-P1\\Electronics_Store_Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kwin8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
